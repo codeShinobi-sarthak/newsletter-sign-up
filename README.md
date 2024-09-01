@@ -24,11 +24,8 @@ Users should be able to:
 
 ## Live Demo
 
-Check out the live version of the project here: [GitHub Pages](https://pages.github.com/)
+Check out the live version of the project here: [GitHub Pages](https://codeshinobi-sarthak.github.io/newsletter-sign-up/)
 
-### Screenshot
-
-![Screenshot of the project](./screenshot.jpg)
 
 ### Built With
 
